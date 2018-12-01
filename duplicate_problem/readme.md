@@ -25,5 +25,6 @@ $path0/02.mapping/bowtie2_mapping/table_read/
 ## visulization
 * for overall dispaly
 * for different RNA type dispaly
+
 `dup_read.ipynb`
 other scripts written by xupeng, maybe in `home/chenxupeng/projects/exseek/jupyter/`
