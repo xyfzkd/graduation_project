@@ -1,1 +1,2 @@
-# path0 = /home/xieyufeng/test
+# for pico data
+path0 = `/home/xieyufeng/test`
